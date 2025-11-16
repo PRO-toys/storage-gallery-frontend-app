@@ -1,0 +1,8 @@
+{
+    "URL_BACKEND": "http://127.0.0.1:8000",
+    "////URL_BACKEND": "https://demo-backend.protoys.online",
+    "URL_FRONTEND": "http://127.0.0.1:3001",
+    "////URL_FRONTEND": "https://demo.protoys.online",
+    "URL_MODULE": "http://127.0.0.1:5001",
+    "////URL_MODULE": "https://module.protoys.online"
+}
